@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Subject\\Visual programming\\\u00D4n t\u1EADp thi gi\u1EEFa k\u00EC\\QL_DanhSachSinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9AE2E5-8400-48AA-B598-D69F2015B59F}|QL_DanhSachSinhVien.csproj|d:\\subject\\visual programming\\\u00F4n t\u1EADp thi gi\u1EEFa k\u00EC\\ql_danhsachsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9AE2E5-8400-48AA-B598-D69F2015B59F}|QL_DanhSachSinhVien.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9AE2E5-8400-48AA-B598-D69F2015B59F}|QL_DanhSachSinhVien.csproj|d:\\subject\\visual programming\\\u00F4n t\u1EADp thi gi\u1EEFa k\u00EC\\ql_danhsachsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B9AE2E5-8400-48AA-B598-D69F2015B59F}|QL_DanhSachSinhVien.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9AE2E5-8400-48AA-B598-D69F2015B59F}|QL_DanhSachSinhVien.csproj|d:\\subject\\visual programming\\\u00F4n t\u1EADp thi gi\u1EEFa k\u00EC\\ql_danhsachsinhvien\\models\\danhsachsv_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9AE2E5-8400-48AA-B598-D69F2015B59F}|QL_DanhSachSinhVien.csproj|solutionrelative:models\\danhsachsv_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Subject\\Visual programming\\\u00D4n t\u1EADp thi gi\u1EEFa k\u00EC\\QL_DanhSachSinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Subject\\Visual programming\\\u00D4n t\u1EADp thi gi\u1EEFa k\u00EC\\QL_DanhSachSinhVien\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T03:17:53.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DanhSachSV_dbContext.cs",
+              "DocumentMoniker": "D:\\Subject\\Visual programming\\\u00D4n t\u1EADp thi gi\u1EEFa k\u00EC\\QL_DanhSachSinhVien\\Models\\DanhSachSV_dbContext.cs",
+              "RelativeDocumentMoniker": "Models\\DanhSachSV_dbContext.cs",
+              "ToolTip": "D:\\Subject\\Visual programming\\\u00D4n t\u1EADp thi gi\u1EEFa k\u00EC\\QL_DanhSachSinhVien\\Models\\DanhSachSV_dbContext.cs",
+              "RelativeToolTip": "Models\\DanhSachSV_dbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T03:04:56.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Subject\\Visual programming\\\u00D4n t\u1EADp thi gi\u1EEFa k\u00EC\\QL_DanhSachSinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Subject\\Visual programming\\\u00D4n t\u1EADp thi gi\u1EEFa k\u00EC\\QL_DanhSachSinhVien\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T03:00:33.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
